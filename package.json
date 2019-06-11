@@ -1,18 +1,14 @@
 {
-  "name": "@productboard/slate-edit-list",
+  "name": "@bengotow/slate-edit-list",
   "description": "A Slate plugin to handle keyboard events in lists.",
   "version": "0.19.1",
   "license": "Apache-2.0",
-  "repository": "git://github.com/productboard/slate-edit-list.git",
+  "repository": "git://github.com/bengotow/slate-edit-list.git",
   "main": "./dist/index.js",
   "peerDependencies": {
     "immutable": "^3.8.2",
     "slate": "^0.45.0"
   },
-  "files": [
-    "dist",
-    "*.md"
-  ],
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
